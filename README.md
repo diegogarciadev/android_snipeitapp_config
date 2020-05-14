@@ -20,5 +20,5 @@ define("API_KEY", "Enter your api key here!!");
 
 * Fill yor server address and press CONFIGURE APP button
 
-If all works fine, you will see a grenn notification "**App configured!!**"
+If all works fine, you will see a green notification "**App configured!!**"
 
