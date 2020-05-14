@@ -23,4 +23,4 @@ define("API_KEY", "Enter your api key here!!");
 If all works fine, you will see a green notification "**App configured!!**"
 
 
-## HIGHLY RECOMMENDED: DELETE THE FILE snipeitapp config.php AFTER APP CONFIGURATION
+## HIGHLY RECOMMENDED: DELETE THE FILE snipeitapp_config.php AFTER APP CONFIGURATION
