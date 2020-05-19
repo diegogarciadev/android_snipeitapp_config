@@ -1,6 +1,7 @@
 # Configuration file for Android Snipe-IT Scan App 
 
 ### Try Demo version on Google Play: https://bit.ly/snipeitapp_demo
+### Full version https://bit.ly/snipeit_app
 
 In order to configre yor Android app, follow this steps:
 
