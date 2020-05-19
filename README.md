@@ -1,5 +1,7 @@
 # Configuration file for Android Snipe-IT Scan App 
 
+### Try Demo version on Google Play: https://bit.ly/snipeitapp_demo
+
 In order to configre yor Android app, follow this steps:
 
 **1.** Download **snipeitapp_config.php** file and copy it to your Snipe-IT public directory, so it would be acceded as **http(s)://snipeit.yourdomain.com/snipeitapp_config.php**
