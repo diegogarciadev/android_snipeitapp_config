@@ -27,3 +27,6 @@ If all works fine, you will see a green notification "**App configured!!**"
 
 
 ## HIGHLY RECOMMENDED: DELETE THE FILE snipeitapp_config.php AFTER APP CONFIGURATION
+
+
+#### You can help me to continue developing applications, sometimes I need extra coffee: paypal.me/diegogarciadev
