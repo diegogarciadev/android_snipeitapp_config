@@ -1,9 +1,10 @@
 # Configuration file for Android Snipe-IT Scan App 
 
-### Try Demo version on Google Play: https://bit.ly/snipeitapp_demo
 ### Full version https://bit.ly/snipeit_app
 
 In order to configre yor Android app, follow this steps:
+
+**Prerequisites:** You need to create an API key in your web application: Your user profile --> Manage API keys --> Create new
 
 **1.** Download **snipeitapp_config.php** file and copy it to your Snipe-IT public directory, so it would be acceded as **http(s)://snipeit.yourdomain.com/snipeitapp_config.php**
 
